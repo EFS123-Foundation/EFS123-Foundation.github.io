@@ -11,7 +11,9 @@ Into the dashboard, teacher can see their students. Students can see their resul
 
 ## LICENSE
 The E-Learning software is distributed under the AGPL and MIT.
+Copyright © 2014 - 2020 EFS123 Foundation.
 
 
 ## Get Started
-[EFS123] (https://efs123-foundation.github.io)
+[EFS123 for E-Learning] (https://efs123-foundation.github.io)
+
